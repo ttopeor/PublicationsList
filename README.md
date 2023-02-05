@@ -1,4 +1,4 @@
-# Publications_list
+# Publications list
 #### Feng, Y., Wang, H., Wu, J., Song, H., & Chen, I. M. (2020, October). Design of a Novel Self-Balancing Mechanism on AGV for Stable Stair Climbing. In IECON 2020 The 46th Annual Conference of the IEEE Industrial Electronics Society (pp. 594-599). IEEE.
 #### https://ieeexplore.ieee.org/abstract/document/9255033
 
